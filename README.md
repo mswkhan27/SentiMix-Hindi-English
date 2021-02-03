@@ -14,3 +14,8 @@ hashtags). Efficiency will be measured in terms of Precision,
 Recall, and F-measure.
 
 Proposed Approach and Results are given in the Paper/Project Report.
+Model:
+Final Model Implemented: Random Forest Classifier
+A. Putting Data into the Random Forest Classifier
+B. Fitting the Training Data
+C. Predicting the Test Data
